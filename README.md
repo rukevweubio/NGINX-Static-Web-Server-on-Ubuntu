@@ -68,5 +68,8 @@ sudo systemctl status apache2
     sudo logwatch --service nginx --range Today --detail Med --format text
     sudo nano /usr/share/logwatch/default.conf/logwatch.conf
 ```
+![website hosted by nginx](https://github.com/rukevweubio/NGINX-Static-Web-Server-on-Ubuntu/blob/main/Screenshot%20(347).png)
+
 ### conclusion 
 This project successfully demonstrates the deployment of NGINX on Ubuntu Linux as of March 13, 2025, tailored for static website hosting. By focusing on installation, virtual server configuration, and log management with Logwatch, it provides a practical foundation for beginner-to-intermediate users. The methodology ensures a functional server.
+
