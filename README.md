@@ -38,3 +38,8 @@ sudo apt install apache2 -y
 sudo systemctl status apache2
 
 ```
+![nginx status ](https://github.com/rukevweubio/NGINX-Static-Web-Server-on-Ubuntu/blob/main/Screenshot%20(452).png)
+## test nginx connection
+```nginx -t
+```
+![nginx status ](https://github.com/rukevweubio/NGINX-Static-Web-Server-on-Ubuntu/blob/main/Screenshot%20(457).png)
